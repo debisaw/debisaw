@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debisaw
-- 👀 I’m interested in data science/analytics 
+- 👀 I’m interested in DBA/data science/analytics 
 - 🌱 I’m currently learning anything that will help me land a job in the field 
 
 
